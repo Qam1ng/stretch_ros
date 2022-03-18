@@ -8,10 +8,10 @@
   <xacro:include filename="stretch_main.xacro" />
   <xacro:include filename="stretch_aruco.xacro" />
   <xacro:include filename="stretch_d435i.xacro" />
+  <xacro:include filename="stretch_d435i_wrist.xacro" />
   <xacro:include filename="stretch_laser_range_finder.xacro" />
   <xacro:include filename="stretch_respeaker.xacro" />
 
 </robot>
 
   
-
